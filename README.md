@@ -4,6 +4,9 @@ A sort of scraper for products name and prices which will be saved in a CSV file
 
 ## Images
 
-![](images/Screenshot (206).png)
+![](images/Screenshot%20(206).png)
 
-![](images/Screenshot (207).png)
+![](images/Screenshot%20(207).png)
+
+
+
