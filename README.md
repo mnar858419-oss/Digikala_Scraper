@@ -6,6 +6,8 @@ A sort of scraper for products name and prices which will be saved in a CSV file
 
 ![](images/Screenshot%20(206).png)
 
+
+
 ![](images/Screenshot%20(207).png)
 
 
