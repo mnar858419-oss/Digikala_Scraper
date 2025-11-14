@@ -1,7 +1,2 @@
-*
-!Scraper.py
-!requirements.txt
-!images/
-!images/*
-!READEME.md
-!.gitignore
+venv/
+*.csv
